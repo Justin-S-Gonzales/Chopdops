@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Chopdops
-- 👀 I’m interested in ... game engine programming
-- 🌱 I’m currently learning OpenGL with C++
+- 👋 Hi, I’m @Justin-S-Gonzales
+- 👀 I’m interested in ... game engine/graphics programming
+- 🌱 I’m currently learning C++, OpenGL, Javascript, CSS, and HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
-Chopdops/Chopdops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Justin-S-Gonzales/Justin-S-Gonzales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
