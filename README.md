@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Justin-S-Gonzales
-- 👀 I’m interested in ... game engine/graphics programming
+- 👀 I’m interested in game engine/graphics programming
 - 🌱 I’m currently learning C++, OpenGL, Javascript, CSS, and HTML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Justin-S-Gonzales/Justin-S-Gonzales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
