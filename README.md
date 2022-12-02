@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Justin-S-Gonzales
-- 👋 こんにちは、ジャスティス・ゴンザレスです。
+- 👋 こんにちは、ジャスティン・ゴンザレスです。
 - 👀 I’m interested in game engine/graphics programming
 - 👀 ゲームのプログラミングに興味があります。
 - 🌱 I’m currently learning C++, OpenGL, Javascript, CSS, and HTML
