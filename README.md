@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Justin-S-Gonzales
-- 👋 こんにちは、ジャスティン・ゴンザレスです。
-- 👀 I’m interested in game engine/graphics programming
-- 👀 ゲームのプログラミングに興味があります。
-- 🌱 I’m currently learning C++, OpenGL, Javascript, CSS, and HTML
-- 🌱 今C++とOpenGLとJavaScriptとCSSとHTMLを学んでいます。
+- Hi, I’m @Justin-S-Gonzales
+- こんにちは、ジャスティン・ゴンザレスです。
+- I want to become a web or app developer.
+- ウェブ開発者またはアプリ開発者になりたいです。
+- I mainly can program in, Javascript, CSS, and HTML.
+- 主にJavaScriptとCSSとHTMLでプログラムできます。
 
 <!---
 Justin-S-Gonzales/Justin-S-Gonzales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
