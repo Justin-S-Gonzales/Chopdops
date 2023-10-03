@@ -1,7 +1,7 @@
 - Hi, I’m @Justin-S-Gonzales
 - I am studying computer science to become a game developer.
 - I mainly program in C++.
-- 
+  
 - こんにちは、ジャスティン・ゴンザレスです。
 - ゲーム開発者になりたいです。
 - 主にC++でプログラムします。
