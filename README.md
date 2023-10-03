@@ -1,9 +1,10 @@
 - Hi, I’m @Justin-S-Gonzales
+- I am studying computer science to become a game developer.
+- I mainly program in C++.
+- 
 - こんにちは、ジャスティン・ゴンザレスです。
-- I want to become a web or app developer.
-- ウェブ開発者またはアプリ開発者になりたいです。
-- I mainly can program in, Javascript, CSS, and HTML.
-- 主にJavaScriptとCSSとHTMLでプログラムできます。
+- ゲーム開発者になりたいです。
+- 主にC++でプログラムします。
 
 <!---
 Justin-S-Gonzales/Justin-S-Gonzales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
