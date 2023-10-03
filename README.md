@@ -2,7 +2,7 @@
 - I am studying computer science to become a game developer.
 - I mainly program in C++.
   
-- こんにちは、ジャスティン・ゴンザレスです。
+- こんにちは、ジャスティンゴンザレスです。
 - ゲーム開発者になりたいです。
 - 主にC++でプログラムします。
 
